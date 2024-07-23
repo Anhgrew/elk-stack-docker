@@ -1,0 +1,22 @@
+2024-07-23 10:00:07 INFO  [main] - Application shutdown complete
+2024-07-23 10:00:08 WARN  [main] - Disk space critically low
+2024-07-23 10:00:09 INFO  [main] - Reconnecting to the database
+2024-07-23 10:00:10 ERROR [main] - Database connection failed: TimeoutException
+2024-07-23 10:00:11 INFO  [main] - Reconnecting to the database
+2024-07-23 10:00:12 WARN  [main] - Configuration file missing
+2024-07-23 10:00:13 INFO  [main] - Configuration file loaded successfully
+2024-07-23 10:00:14 DEBUG [main] - Starting service X
+2024-07-23 10:00:15 INFO  [main] - Service X started successfully
+2024-07-23 10:00:16 ERROR [main] - Service Y failed to start: DependencyUnavailableException
+2024-07-23 10:00:17 INFO  [main] - Retrying Service Y startup
+2024-07-23 10:00:18 WARN  [main] - Service Y retry failed: DependencyUnavailableException
+2024-07-23 10:00:19 INFO  [main] - Application performance degraded
+2024-07-23 10:00:20 INFO  [main] - Application operating at reduced capacity
+2024-07-23 10:00:21 DEBUG [main] - Performance metrics collected
+2024-07-23 10:00:22 INFO  [main] - Monitoring system resources
+2024-07-23 10:00:23 WARN  [main] - High CPU usage detected
+2024-07-23 10:00:24 INFO  [main] - Scaling up resources
+2024-07-23 10:00:25 DEBUG [main] - Resource scaling initiated
+2024-07-23 10:00:26 INFO  [main] - Resource scaling completed successfully
+2024-07-23 10:00:27 ERROR [main] - Unexpected error occurred: IndexOutOfBoundsException
+2024-07-23 10:00:28 INFO  [main] - Error resolved, continuing operations
